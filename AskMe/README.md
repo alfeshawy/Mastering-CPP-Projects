@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # AskMe - Professional CLI Q&A System
 
 AskMe is a robust, command-line interface (CLI) application developed in C++ that simulates a social question-and-answer platform. It allows users to create accounts, ask questions to others, manage their incoming questions, and participate in threaded discussions.
@@ -25,6 +22,18 @@ The project follows a modular, object-oriented design to ensure maintainability 
 - **`UserManager`**: Handles user-related logic, including authentication, registration, and listing.
 - **`QuestionManager`**: Manages the lifecycle of questions, including storage, retrieval, and deletion logic.
 - **`User` & `Question`**: Core data models representing the entities in the system.
+
+## 📥 How to Download & Run
+
+### Option 1: Download ONLY this project (Recommended)
+If you only want this specific folder without cloning the entire repository, use the link below:
+* [**Download AskMe Folder**](https://download-directory.github.io/?url=https://github.com/alfeshawy/Mastering-CPP-Projects/tree/main/AskMe)
+*(This uses the GitHub Download Directory tool to zip only this folder for you)*
+
+### Option 2: Using Git (Standard)
+1. **Clone the main repository:**
+   ```bash
+   git clone [https://github.com/alfeshawy/Mastering-CPP-Projects.git](https://github.com/alfeshawy/Mastering-CPP-Projects.git)
 
 ## 🛠️ Getting Started
 
